@@ -1,8 +1,0 @@
-interface IRentalStorage
-{
-    void Add(Rental rental);
-    List<Rental> GetAll();
-    List<Rental> GetActiveRentals();
-    List<Rental> GetLateRentals();
-    List<Rental> GetByUser(User user);
-}
