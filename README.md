@@ -25,5 +25,5 @@ Każda klasa odpowiada za swoją funkcję i ma pojedynczą odpowiedzialność, n
 Taki podział klas i plików został użyty, żeby zachowane zostały zasady poprawnej architektury projektu, która pozwala na łatwe odnalezienie się w kodzie, a także łatwy rozwój kodu na nowe funkcjonalności.
 
 ## Jak uruchomić?
-1. Przejdź do folderu głównego projektu (tego z plikiem APBD-Cw2-s33551.csproj)
-2. Wpisz "dotnet build", a następnie "dotnet run".
+1. Przejdź do folderu głównego projektu (tego z plikiem APBD-Cw2-s33551.csproj) w konsoli
+2. Wpisz "dotnet build", a następnie "dotnet run"
